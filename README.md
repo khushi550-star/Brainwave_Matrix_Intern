@@ -1,1 +1,3 @@
-WELCOME to  the Brainwave Matrix Internship repository. This repository contains the tasks completed during the intenship program.. and the first task is to perform C++ program to create a fully functionally ATM machine.
+Welcome to the Brainwave Matrix Internship repository! This repository showcases the tasks completed during the internship program, demonstrating practical coding projects and hands-on experience gained during this journey...In the First Task of this Intenship is to Develop a C++ program to create a fully functional ATM machine interface.
+
+The second task involves developing an Online Banking System using C++. This project aims to simulate key banking operations in a virtual environment, providing users with an interactive and secure platform for managing their accounts...A Special thanks to the Brainwave Matrix Internship program for providing a platform to hone skills, explore creativity, and grow as a programmer.
